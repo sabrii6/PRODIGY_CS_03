@@ -28,7 +28,7 @@ cd PRODIGY_CS_03
 ````
 3. Run the Script:
 ````
-python3 PasswordComplexityChecker.py
+python3 Password Complexity Checker.py
 ````
 ## Example
 ````
